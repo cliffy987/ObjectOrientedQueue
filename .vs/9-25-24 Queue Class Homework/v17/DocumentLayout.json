@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ebwhi\\source\\repos\\ObjectOrientedQueue\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E40CE1B6-F843-447A-9C51-AC9C4D0F933F}|9-25-24 Queue Class Homework\\9-25-24 Queue Class Homework.vcxproj|C:\\Users\\ebwhi\\source\\repos\\ObjectOrientedQueue\\9-25-24 Queue Class Homework\\Queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E40CE1B6-F843-447A-9C51-AC9C4D0F933F}|9-25-24 Queue Class Homework\\9-25-24 Queue Class Homework.vcxproj|solutionrelative:9-25-24 Queue Class Homework\\Queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40CE1B6-F843-447A-9C51-AC9C4D0F933F}|9-25-24 Queue Class Homework\\9-25-24 Queue Class Homework.vcxproj|C:\\Users\\ebwhi\\source\\repos\\ObjectOrientedQueue\\9-25-24 Queue Class Homework\\Queue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E40CE1B6-F843-447A-9C51-AC9C4D0F933F}|9-25-24 Queue Class Homework\\9-25-24 Queue Class Homework.vcxproj|solutionrelative:9-25-24 Queue Class Homework\\Queue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40CE1B6-F843-447A-9C51-AC9C4D0F933F}|9-25-24 Queue Class Homework\\9-25-24 Queue Class Homework.vcxproj|C:\\Users\\ebwhi\\source\\repos\\ObjectOrientedQueue\\9-25-24 Queue Class Homework\\MainProgram.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E40CE1B6-F843-447A-9C51-AC9C4D0F933F}|9-25-24 Queue Class Homework\\9-25-24 Queue Class Homework.vcxproj|solutionrelative:9-25-24 Queue Class Homework\\MainProgram.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainProgram.cpp",
+              "DocumentMoniker": "C:\\Users\\ebwhi\\source\\repos\\ObjectOrientedQueue\\9-25-24 Queue Class Homework\\MainProgram.cpp",
+              "RelativeDocumentMoniker": "9-25-24 Queue Class Homework\\MainProgram.cpp",
+              "ToolTip": "C:\\Users\\ebwhi\\source\\repos\\ObjectOrientedQueue\\9-25-24 Queue Class Homework\\MainProgram.cpp",
+              "RelativeToolTip": "9-25-24 Queue Class Homework\\MainProgram.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-27T13:51:15.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Queue.cpp",
+              "DocumentMoniker": "C:\\Users\\ebwhi\\source\\repos\\ObjectOrientedQueue\\9-25-24 Queue Class Homework\\Queue.cpp",
+              "RelativeDocumentMoniker": "9-25-24 Queue Class Homework\\Queue.cpp",
+              "ToolTip": "C:\\Users\\ebwhi\\source\\repos\\ObjectOrientedQueue\\9-25-24 Queue Class Homework\\Queue.cpp",
+              "RelativeToolTip": "9-25-24 Queue Class Homework\\Queue.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-27T13:33:11.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Queue.h",
+              "DocumentMoniker": "C:\\Users\\ebwhi\\source\\repos\\ObjectOrientedQueue\\9-25-24 Queue Class Homework\\Queue.h",
+              "RelativeDocumentMoniker": "9-25-24 Queue Class Homework\\Queue.h",
+              "ToolTip": "C:\\Users\\ebwhi\\source\\repos\\ObjectOrientedQueue\\9-25-24 Queue Class Homework\\Queue.h",
+              "RelativeToolTip": "9-25-24 Queue Class Homework\\Queue.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-27T13:25:47.004Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
